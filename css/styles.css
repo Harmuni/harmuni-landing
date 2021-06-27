@@ -49,6 +49,20 @@
   }
 }
 
+.cta-link, .cta-link a {
+  font-family: 'Laila', sans-serif;
+  font-size: 35px;
+}
+
+.cta-link a {
+  text-decoration: none;
+  color: #8991BD;
+}
+
+.cta-link a:hover {
+  color: #8991BD;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-font-sans-serif);
